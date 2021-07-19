@@ -1,0 +1,45 @@
+
+---下载的文件---
+导入文件：RePick已成功下载！
+初始最大执行时间= 300
+文件信息：
+网站网址 = https://zttn.tk
+数据文件 = /www/wwwroot/zttn.tk/wp-content/uploads/2021/07/demo-content-import-file_2021-07-18__13-12-47.xml
+小工具文件 = /www/wwwroot/zttn.tk/wp-content/uploads/2021/07/demo-widgets-import-file_2021-07-18__13-12-47.json
+自定义文件 = 未定义!
+Redux文件：
+未定义!
+
+---ocdi/before_content_import---
+
+
+------
+新 Ajax 调用！
+
+
+---正在导入小工具---
+Post Sidebar Area : 
+
+ReHub: Tabs - 无标题 - 导入完成
+文本 - 无标题 - 导入完成
+
+页脚1 : 
+
+文本 - About Repick - 导入完成
+
+页脚2 : 
+
+分类 - Categories - 导入完成
+
+页脚3 : 
+
+搜索 - Search - 导入完成
+
+footerbottom : 主题中不存在侧边栏(将小工具移动到非活动状态)
+
+自定义HTML - 无标题 - 导入无效
+
+
+
+---ocdi/after_import---
+Theme Options was updated-------Customizer was updated-------Menu was assigned-------Menu hierarchy was fixed-------Menu hierarchy was fixed-------Menu hierarchy was fixed-------HomePage was assigned-------
